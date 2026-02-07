@@ -13,13 +13,13 @@ An interactive HR Analytics Dashboard built to analyze employee attrition, salar
 📊 Interactive Visualizations <br>
 
 # 🛠️ Tech Stack
-🔹 Data Analysis: Python (Pandas, NumPy)
-🔹 Visualization: Power BI / Dashboard Tool
-🔹 Data Source: IBM HR Dataset
-🔹 Design: Dark UI with Modern Layout
+🔹 Data Analysis: Python (Pandas, NumPy) <br>
+🔹 Visualization: Power BI / Dashboard Tool <br>
+🔹 Data Source: IBM HR Dataset <br>
+🔹 Design: Dark UI with Modern Layout <br>
 
 # 📌 Key Insights
-🔹 Identifies departments with high attrition
-🔹 Shows impact of salary and job level on retention
-🔹 Helps understand workforce structure
-🔹 Supports better HR decision-making
+🔹 Identifies departments with high attrition <br>
+🔹 Shows impact of salary and job level on retention <br>
+🔹 Helps understand workforce structure <br>
+🔹 Supports better HR decision-making <br>
